@@ -8,20 +8,20 @@ VERSION="2.0.0"
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
+ORG_DESCRIPTION="Ubisoft Entertainment is a French video game company headquartered in the Montreuil suburb of Paris, with several development studios across the world. Its video game franchises include Assassin's Creed, Far Cry, For Honor, Prince of Persia, Tom Clancy's, Just Dance, Watch Dogs, Rayman, and Rabbids."
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/7pL4y5J/lemon.png"
+ORG_LOGO="https://i.ibb.co/MZBRpXv/download.png"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="xLEM"
+code="Ubisoft"
 issuer="GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
 anchor_asset="false"
-name="Lemon Coin"
-desc="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
-image="https://i.ibb.co/7pL4y5J/lemon.png"
+name="Ubisoft"
+desc="Ubisoft Entertainment is a French video game company headquartered in the Montreuil suburb of Paris, with several development studios across the world. Its video game franchises include Assassin's Creed, Far Cry, For Honor, Prince of Persia, Tom Clancy's, Just Dance, Watch Dogs, Rayman, and Rabbids. "
+image="https://i.ibb.co/MZBRpXv/download.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#LemonCoin was issued using the open and inclusive Stellar blockchain network.
+#Ubisoft was issued using the open and inclusive Stellar blockchain network.
